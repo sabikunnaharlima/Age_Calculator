@@ -12,7 +12,7 @@ Welcome to the ✨ Magical Age Calculator ✨! Let's embark on a delightful jour
    ```
 3. You'll see this magical interface appear:
 
-![Magical Age Calculator Interface](C:\Users\User\OneDrive\Pictures\Screenshots\MagicalAgeCalculator.png)
+![MagicalAgeCalculator](https://github.com/user-attachments/assets/15654fe2-82f1-4c17-aa6b-30b0f65cb15c)
 
 ### Step 2: Enter Your Birthday Details 🎂
 1. In the "Day" field: Enter your birth day (1-31)
